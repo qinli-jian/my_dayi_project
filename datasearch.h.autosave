@@ -1,0 +1,15 @@
+﻿#ifndef DATASEARCH_H
+#define DATASEARCH_H
+
+#include"mainwindow.h"
+#include<QObject>
+
+class datasearchFace{
+    Q_OBJECT
+    
+public:
+    datasearchFace(QWidget*p=nullptr);
+    ~datasearchFace();
+};
+
+#endif // DATASEARCH_H
