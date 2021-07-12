@@ -1,2 +1,5 @@
 # my_dayi_project
-A final course design by a freshman
+大一学生的期末课程设计
+实现对数据库中的人流、车流数据、进行管理和展示；
+展示方式有表格形式、统计图；
+可以动态生成一些人流或者车流数据。
